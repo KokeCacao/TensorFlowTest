@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="me.kokecacao.tensorflow.tensorflowtest.MainActivity">
+    <item
+        android:id="@+id/Item"
+        android:checkable="false"
+        android:enabled="true"
+        android:title="example"
+        android:visible="true" />
+</menu>
